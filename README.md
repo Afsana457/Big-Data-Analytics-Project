@@ -2,7 +2,6 @@
 End-to-end Big Data Analytics &amp; Visualization Project (Python + Tableau + Power BI)
 
 📌 **Course:**  Big Data Analytics and Data Visualization  
-📌 **Faculty:** Ahmed Imran Kabir, Assistant Professor, School of Business & Economics, United International University (UIU)  
 
 This project demonstrates **end-to-end analytics skills**:  
 - Cleaning and transforming raw transaction data in **Python**  
