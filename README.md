@@ -1,4 +1,4 @@
-# Big-Data-Analytics-Project
+# Big-Data-Analytics & Visualization-Project
 End-to-end Big Data Analytics &amp; Visualization Project (Python + Tableau + Power BI)
 
 📌 **Course:**  Big Data Analytics and Data Visualization  
@@ -54,6 +54,18 @@ Designed business-focused BI report with:
 - **Country & Gender analysis** show diverse buying patterns, useful for targeted marketing.  
 
 ---
+## 📊 Dashboards  
+
+### Tableau – Sales Dashboard  
+![Sales Dashboard](Sales%20Dashboard.PNG)  
+
+### Tableau – Customer Dashboard  
+![Customer Dashboard](Customer%20Dashboard.PNG)  
+
+### Power BI – Profitability Dashboard  
+![Power BI Dashboard](Power%20Bi%20Dashbaord.PNG)  
+👉 [Download PBIX File](Big%20Data%20Project1.pbix)  
+
 
 ## 💡 Tools Used  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
