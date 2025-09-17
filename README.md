@@ -45,7 +45,8 @@ Designed business-focused BI report with:
 
 - **Card Visuals**: Total Sales, Total Quantity Sold  
 - **Charts**: Sales by Category, Monthly Sales, Sales by Gender, Sales by Age Group, Sales by Country  
-- **Interactive Slicers**: Year and Product Category  
+- **Interactive Slicers**: Year and Product Category
+- https://github.com/Afsana457/Big-Data-Analytics-Project/blob/main/Big%20Data%20Project1.pbix
 
 ## 🚀 Key Insights  
 - **Discounts** increase sales but reduce profitability when overused.  
